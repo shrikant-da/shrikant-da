@@ -16,6 +16,7 @@ I am passionate about transforming data into meaningful insights and building in
 
 **Programming**
 - Python
+- Web dev
 - SQL
 
 **Data & Analytics**
